@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 190" width="100%" role="img" aria-labelledby="headerTitle headerDesc">
+  <title id="headerTitle">Alefiya Rajgarh — Software Developer</title>
+  <desc id="headerDesc">Software Developer specializing in AI-powered applications, Python backends, machine learning, and cross-platform systems.</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0D1526"/>
+    </linearGradient>
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="65%" stop-color="#E2E8F0"/>
+      <stop offset="100%" stop-color="#BAE6FD"/>
+    </linearGradient>
+    <radialGradient id="purpleGlow" cx="15%" cy="15%" r="55%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow" cx="88%" cy="85%" r="50%">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94A3B8" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Base -->
+  <rect x="1" y="1" width="958" height="188" rx="14" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="1" y="1" width="958" height="188" rx="14" fill="url(#purpleGlow)"/>
+  <rect x="1" y="1" width="958" height="188" rx="14" fill="url(#tealGlow)"/>
+  <rect x="1" y="1" width="958" height="188" rx="14" fill="url(#dotGrid)"/>
+
+  <!-- Top Accent Line -->
+  <rect x="40" y="1" width="880" height="3" rx="1.5" fill="url(#accentBar)"/>
+
+  <!-- Subtle Right Decorative Node Graph (AI / Systems motif) -->
+  <g opacity="0.32" stroke="url(#accentBar)" stroke-width="1.2" fill="none">
+    <line x1="760" y1="48" x2="835" y2="36"/>
+    <line x1="835" y1="36" x2="905" y2="68"/>
+    <line x1="760" y1="48" x2="805" y2="96"/>
+    <line x1="805" y1="96" x2="885" y2="118"/>
+    <line x1="835" y1="36" x2="805" y2="96"/>
+    <line x1="905" y1="68" x2="885" y2="118"/>
+    <circle cx="760" cy="48" r="3.5" fill="#8B5CF6" stroke="none"/>
+    <circle cx="835" cy="36" r="4" fill="#3B82F6" stroke="none"/>
+    <circle cx="905" cy="68" r="3.5" fill="#14B8A6" stroke="none"/>
+    <circle cx="805" cy="96" r="4" fill="#38BDF8" stroke="none"/>
+    <circle cx="885" cy="118" r="3.5" fill="#14B8A6" stroke="none"/>
+  </g>
+
+  <!-- Role Eyebrow -->
+  <text x="44" y="46" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.8">
+    SOFTWARE DEVELOPER  ·  AI, MACHINE LEARNING &amp; SCALABLE SYSTEMS
+  </text>
+
+  <!-- Name -->
+  <text x="44" y="88" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.4">
+    Alefiya Rajgarh
+  </text>
+
+  <!-- Subtitle -->
+  <text x="44" y="116" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400">
+    Building AI-powered applications, scalable Python &amp; Node.js backends, data-driven pipelines, and cross-platform software.
+  </text>
+
+  <!-- Domain Pills -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">
+    <!-- Pill 1 -->
+    <rect x="44" y="138" width="182" height="28" rx="14" fill="#1E1B4B" fill-opacity="0.65" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="60" cy="152" r="3.5" fill="#A78BFA"/>
+    <text x="72" y="156" fill="#DDD6FE">Generative AI &amp; LLMs</text>
+
+    <!-- Pill 2 -->
+    <rect x="236" y="138" width="212" height="28" rx="14" fill="#0F2942" fill-opacity="0.65" stroke="#3B82F6" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="252" cy="152" r="3.5" fill="#60A5FA"/>
+    <text x="264" y="156" fill="#DBEAFE">Python &amp; FastAPI Backends</text>
+
+    <!-- Pill 3 -->
+    <rect x="458" y="138" width="206" height="28" rx="14" fill="#0B2E2F" fill-opacity="0.65" stroke="#14B8A6" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="474" cy="152" r="3.5" fill="#2DD4BF"/>
+    <text x="486" y="156" fill="#CCFBF1">Machine Learning &amp; Data</text>
+
+    <!-- Pill 4 -->
+    <rect x="674" y="138" width="232" height="28" rx="14" fill="#172554" fill-opacity="0.55" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="690" cy="152" r="3.5" fill="#38BDF8"/>
+    <text x="702" y="156" fill="#E0F2FE">Cloud &amp; Cross-Platform Apps</text>
+  </g>
+</svg>
