@@ -20,22 +20,56 @@
 
 ## About Me
 
-- **Software Developer** at **S3 Cubes Innovations Pvt. Ltd.** (working on **Soulene**, following my internship there).
-- Building practical **applications, backend REST APIs, and AI-powered features**.
-- Actively learning and exploring **Python, Generative AI, Machine Learning fundamentals, and Data Science**.
+- **Software Developer**, working on real-world software products and applications.
+- Pursuing an integrated **B.Tech + M.Tech in Artificial Intelligence & Data Science**, with a strong technical foundation across Machine Learning, Agentic AI, and Explainable AI (XAI).
+- Interested in building scalable applications, connecting backend systems, and solving practical problems through technology.
+- Exploring **Artificial Intelligence, Generative AI, and Machine Learning**.
+- Working with **Python, Flutter, APIs, databases, and cloud technologies**.
+- Always learning, experimenting with new technologies, and turning ideas into practical solutions.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,dart,js,cpp,java,html,css,flutter,fastapi,nodejs,firebase,aws,dynamodb,sqlite,git,github,vscode,androidstudio&perline=9&theme=dark" alt="Tech Stack Icons" />
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,dart,java,c,cpp,r&theme=dark" height="38" alt="Programming Languages" />
 </p>
 
-- **Languages:** `Python` · `Dart` · `JavaScript` · `SQL` · `HTML/CSS` · `C++` · `Java`
-- **Software & Backend:** `Flutter` · `FastAPI` · `Node.js` · `REST APIs` · `WebSockets` · `Frontend Development`
-- **AI, ML & Data (Learning & Building):** `Generative AI` · `Gemini API` · `LLM Integration` · `NumPy` · `Pandas` · `Data Analysis & Visualization`
-- **Cloud, Databases & Tools:** `Firebase` · `SQLite` · `AWS` · `DynamoDB` · `Git` · `GitHub` · `VS Code` · `Android Studio`
+`Python` · `Dart` · `Java` · `C` · `C++` · `R` · `SQL` · `NoSQL`
+
+### Software & Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,git,github&theme=dark" height="38" alt="Software Development" />
+</p>
+
+`Flutter` · `Flame` · `Firebase` · `REST API Integration` · `Git` · `GitHub`
+
+### AI, Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-API-1E293B?style=flat-square&logo=googlegemini&logoColor=A78BFA&labelColor=0F172A" height="26" alt="Gemini API" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-AI%20%26%20Data-1E293B?style=flat-square&logo=python&logoColor=38BDF8&labelColor=0F172A" height="26" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=60A5FA" height="26" alt="NumPy" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=2DD4BF" height="26" alt="Pandas" />
+</p>
+
+`Generative AI` · `Gemini API` · `Python` · `Machine Learning` · `Data Analysis` · `NumPy` · `Pandas` · `Agentic AI` · `Explainable AI`
+
+### Cloud, Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,fastapi,nodejs,sqlite&theme=dark" height="38" alt="Cloud and Backend" />
+</p>
+
+`AWS` · `DynamoDB` · `FastAPI` · `Node.js` · `SQLite`
+
+### Development & Analytics Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma&theme=dark" height="38" alt="Development Tools" />&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-1E293B?style=flat-square&logo=powerbi&logoColor=F2C811" height="38" alt="Power BI" />&nbsp;
+  <img src="https://img.shields.io/badge/Canva-1E293B?style=flat-square&logo=canva&logoColor=00C4CC" height="38" alt="Canva" />
+</p>
+
+`VS Code` · `Android Studio` · `GitHub Desktop` · `Figma` · `Stitch` · `Canva` · `Power BI` · `Advanced Excel`
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -43,13 +77,14 @@
 
 | Project | Summary | Tech Stack |
 | :--- | :--- | :--- |
-| **Soulene** | Mental wellness platform with assessments, mood tracking, and AI chat *(S3 Cubes Innovations)* | `Flutter` · `Firebase` · `AWS` · `DynamoDB` · `REST APIs` |
-| **Soulene AI** | AI conversational assistant for supportive wellness guidance and exercises | `Python` · `FastAPI` · `Gemini API` · `REST APIs` |
-| **DocNest (myStuff)** | Document & receipt scanner with PDF storage, reminders, and AI text reading | `Flutter` · `Dart` · `Gemini API` · `PDF` |
-| **[Sound-To-Vision](https://github.com/Alefiya-Rajgarh/Sound-To-Vision)** | Assistive app converting environmental sounds into visual and vibration alerts | `Python` · `Flutter` · `Firebase` |
-| **Multiplayer Game Server** | Real-time multiplayer server exploring rooms, matchmaking, and game state sync | `Node.js` · `WebSockets` · `SQLite` |
-| **Arrow Land** | 2D grid puzzle game with arrow mechanics and level progression | `Flutter` · `Flame` · `Firebase` · `AdMob` |
-| **[My Expenses](https://github.com/Alefiya-Rajgarh/Expense-Tracker-app)** | Expense tracker with category insights, monthly budgets, and spending charts | `Flutter` · `Firebase` · `Charts` |
+| **Soulene** | Mental wellness platform featuring assessments, mood tracking, wellness activities, and AI chat | `Flutter` · `Dart` · `Firebase` · `AWS` · `DynamoDB` · `REST APIs` |
+| **Soulene Mentor** | Mentor management app to oversee assigned users, schedule sessions, and manage wellness groups | `Flutter` · `Dart` · `Clean Architecture` · `Riverpod` · `REST APIs` |
+| **Soulene AI** | Conversational wellness assistant providing supportive dialogue and safety boundary guardrails | `Python` · `FastAPI` · `Gemini API` · `REST APIs` · `Pydantic` |
+| **DocNest** | Document & receipt scanner with PDF creation, due date reminders, and AI-assisted text extraction | `Flutter` · `Dart` · `Gemini API` · `PDF` · `Local Storage` |
+| **Arrow Land** | 2D grid puzzle game featuring directional arrow mechanics, level progression, and game logic | `Flutter` · `Dart` · `Flame` · `Firebase` · `AdMob` |
+| **[Expense Tracker](https://github.com/Alefiya-Rajgarh/Expense-Tracker-app)** | Personal finance tracker with category insights, monthly budget carry-forward, and analytics charts | `Flutter` · `Dart` · `Firebase` · `Hive` · `fl_chart` |
+| **[Soybean Gyan](https://github.com/Alefiya-Rajgarh/Soybean_Gyan)** | Agricultural decision-support app for farmers with crop management, weather insights, and market data | `Flutter` · `Dart` · `REST APIs` · `Weather APIs` |
+| **[Chatbot](https://github.com/Alefiya-Rajgarh/Chatbot)** | Interactive conversational assistant with real-time responses and messaging interface | `Flutter` · `Dart` · `REST APIs` · `Chat UI` |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

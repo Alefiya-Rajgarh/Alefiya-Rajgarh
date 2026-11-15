@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 190" width="100%" role="img" aria-labelledby="headerTitle headerDesc">
   <title id="headerTitle">Alefiya Rajgarh — Software Developer</title>
-  <desc id="headerDesc">Software Developer building practical applications, backend APIs, and AI-powered features while learning Machine Learning and Data Science.</desc>
+  <desc id="headerDesc">Software Developer · Technology Enthusiast · Continuous Learner. Building practical software solutions, exploring intelligent technologies, and developing applications that solve real-world problems.</desc>
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0B0F19"/>
@@ -55,8 +55,8 @@
   </g>
 
   <!-- Role Eyebrow -->
-  <text x="44" y="46" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.8">
-    SOFTWARE DEVELOPER  ·  CONTINUOUS LEARNER &amp; BUILDER
+  <text x="44" y="46" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.6">
+    SOFTWARE DEVELOPER · TECHNOLOGY ENTHUSIAST · CONTINUOUS LEARNER
   </text>
 
   <!-- Name -->
@@ -65,30 +65,30 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="44" y="116" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400">
-    Building practical applications, backend APIs, and AI-assisted features while learning ML &amp; Data Science.
+  <text x="44" y="116" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400">
+    Building practical software solutions, exploring intelligent technologies, and developing applications that solve real-world problems.
   </text>
 
   <!-- Domain Pills -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">
     <!-- Pill 1 -->
-    <rect x="44" y="138" width="196" height="28" rx="14" fill="#172554" fill-opacity="0.60" stroke="#38BDF8" stroke-opacity="0.50" stroke-width="1"/>
+    <rect x="44" y="138" width="184" height="28" rx="14" fill="#172554" fill-opacity="0.60" stroke="#38BDF8" stroke-opacity="0.50" stroke-width="1"/>
     <circle cx="60" cy="152" r="3.5" fill="#38BDF8"/>
     <text x="72" y="156" fill="#E0F2FE">Application Development</text>
 
     <!-- Pill 2 -->
-    <rect x="250" y="138" width="194" height="28" rx="14" fill="#0F2942" fill-opacity="0.65" stroke="#3B82F6" stroke-opacity="0.55" stroke-width="1"/>
-    <circle cx="266" cy="152" r="3.5" fill="#60A5FA"/>
-    <text x="278" y="156" fill="#DBEAFE">Python &amp; REST Backends</text>
+    <rect x="238" y="138" width="216" height="28" rx="14" fill="#0F2942" fill-opacity="0.65" stroke="#3B82F6" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="254" cy="152" r="3.5" fill="#60A5FA"/>
+    <text x="266" y="156" fill="#DBEAFE">Python &amp; Backend Connections</text>
 
     <!-- Pill 3 -->
-    <rect x="454" y="138" width="196" height="28" rx="14" fill="#1E1B4B" fill-opacity="0.65" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
-    <circle cx="470" cy="152" r="3.5" fill="#A78BFA"/>
-    <text x="482" y="156" fill="#DDD6FE">Generative AI &amp; Gemini</text>
+    <rect x="464" y="138" width="162" height="28" rx="14" fill="#1E1B4B" fill-opacity="0.65" stroke="#7C3AED" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="480" cy="152" r="3.5" fill="#A78BFA"/>
+    <text x="492" y="156" fill="#DDD6FE">Artificial Intelligence</text>
 
     <!-- Pill 4 -->
-    <rect x="660" y="138" width="224" height="28" rx="14" fill="#0B2E2F" fill-opacity="0.65" stroke="#14B8A6" stroke-opacity="0.55" stroke-width="1"/>
-    <circle cx="676" cy="152" r="3.5" fill="#2DD4BF"/>
-    <text x="688" y="156" fill="#CCFBF1">Exploring ML &amp; Data Science</text>
+    <rect x="636" y="138" width="232" height="28" rx="14" fill="#0B2E2F" fill-opacity="0.65" stroke="#14B8A6" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="652" cy="152" r="3.5" fill="#2DD4BF"/>
+    <text x="664" y="156" fill="#CCFBF1">Machine Learning &amp; Data Science</text>
   </g>
 </svg>
