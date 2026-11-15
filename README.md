@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Alefiya Rajgarh — Software Developer | Applications, Backends, Generative AI & Data" />
+  <img src="./assets/header.svg" width="100%" alt="Alefiya Rajgarh — Software Developer" />
 
   <br />
 
@@ -20,29 +20,29 @@
 
 ## About Me
 
-I am a **Software Developer** focused on building practical technology solutions, AI-powered applications, and scalable software systems. I enjoy working across different parts of a product—connecting clean user interfaces with **Python and Node.js backends, REST APIs, database integrations, and Generative AI capabilities**.
+I am a **Software Developer** who enjoys building practical applications, learning new technologies, and turning ideas into working software. My interests span **cross-platform application development, backend REST APIs, Generative AI integration, and a growing foundation in Machine Learning and Data Science**.
 
-Alongside building real-world software on the **Soulene** platform at **S3 Cubes Innovations Pvt. Ltd.**, I am actively expanding my foundation in **Machine Learning, Data Science, and Cloud systems**—applying `Python`, `NumPy`, `Pandas`, and LLM APIs to turn data and intelligent workflows into useful everyday software.
+I currently work as a Software Developer on **Soulene** at **S3 Cubes Innovations Pvt. Ltd.** (where I also completed my software development internship). Through real-world product work and personal projects, I focus on writing clean code, connecting frontend apps with backend services, and steadily expanding my skills in Python, AI-powered tools, and data-driven development.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Software &amp; Application Development</b><br />
-      Building cross-platform and web applications with <code>Flutter</code>, <code>Dart</code>, <code>JavaScript</code>, and <code>TypeScript</code>, focusing on clean architecture, intuitive UX, and reliable local/cloud sync.
+      <b>Application &amp; Software Development</b><br />
+      Building user-friendly cross-platform and frontend applications using <code>Flutter</code>, <code>Dart</code>, <code>HTML/CSS</code>, and <code>JavaScript</code>, with clean UI flows and API integration.
     </td>
     <td width="50%" valign="top">
-      <b>Backend Systems &amp; REST APIs</b><br />
-      Developing backend services, RESTful endpoints, and real-time <code>WebSocket</code> servers using <code>Python</code> (<code>FastAPI</code>, <code>Flask</code>) and <code>Node.js</code> with SQL and NoSQL databases.
+      <b>Backend &amp; REST APIs</b><br />
+      Creating and connecting REST APIs and backend services with <code>Python</code> (<code>FastAPI</code>) and <code>Node.js</code>, alongside database integration.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Generative AI &amp; LLM Integration</b><br />
-      Integrating <code>Google Gemini</code> and LLM APIs into practical user features—conversational assistants, document reading, structured JSON outputs, and safety guardrails.
+      <b>Generative AI Integration</b><br />
+      Working with the <code>Google Gemini API</code> and LLM integrations to add helpful conversational and smart document features to applications.
     </td>
     <td width="50%" valign="top">
-      <b>Machine Learning &amp; Data (Exploring)</b><br />
-      Continuously learning and practicing data analysis, data processing, visualization, and introductory ML concepts using <code>Python</code>, <code>NumPy</code>, <code>Pandas</code>, and Jupyter notebooks.
+      <b>Machine Learning &amp; Data (Learning)</b><br />
+      Actively learning <code>Python</code> for data analysis, data processing, visualization, and machine learning fundamentals using <code>NumPy</code> and <code>Pandas</code>.
     </td>
   </tr>
 </table>
@@ -51,113 +51,97 @@ Alongside building real-world software on the **Soulene** platform at **S3 Cubes
 
 ## Technical Skills
 
-Skills are grouped by area to clearly distinguish **hands-on development experience** from technologies I am **currently learning and exploring**.
+My technical stack is organized below to clearly separate **hands-on skills** used in projects from areas I am **currently learning and exploring**.
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,dart,ts,js,cpp,java,html,css&theme=dark" height="38" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,dart,js,cpp,java,html,css&theme=dark" height="38" alt="Programming Languages" />
 </p>
 
-- **Hands-On (Used in Projects):** `Python` · `Dart` · `JavaScript` · `TypeScript` · `SQL` · `HTML5` · `CSS3`
-- **Foundational / Academic:** `C++` · `Java`
+- **Hands-On:** `Python` · `Dart` · `JavaScript` · `SQL` · `HTML` · `CSS`
+- **Familiar / Academic Basics:** `C++` · `Java`
 
 ### Software & Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,nodejs,express,react,nextjs,tailwind&theme=dark" height="38" alt="Software and Backend Development" />
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,nodejs&theme=dark" height="38" alt="Software Development" />
 </p>
 
-- **Hands-On:** `Flutter` · Application Development · REST API Integration & API Development · `FastAPI` · `Node.js` · `Express.js` · `Flask` · `WebSockets` · Frontend Development (`HTML/CSS`, `React`, `Next.js`)
+- **Hands-On:** `Flutter` · Application Development · Frontend Development · REST API Integration · `FastAPI` · `Node.js` · API Development
 
-### Artificial Intelligence, ML & Data Science
+### Artificial Intelligence, Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-API-1E293B?style=flat-square&logo=googlegemini&logoColor=A78BFA&labelColor=0F172A" height="26" alt="Google Gemini API" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-Data%20%26%20AI-1E293B?style=flat-square&logo=python&logoColor=38BDF8&labelColor=0F172A" height="26" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-AI%20%26%20Data-1E293B?style=flat-square&logo=python&logoColor=38BDF8&labelColor=0F172A" height="26" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=60A5FA" height="26" alt="NumPy" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=2DD4BF" height="26" alt="Pandas" />&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=F59E0B" height="26" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=2DD4BF" height="26" alt="Pandas" />
 </p>
 
-- **Generative AI & Applications (Hands-On):** Generative AI · Google `Gemini API` · LLM Integration · AI-Powered Applications · Intelligent Systems & Prompt Workflows
-- **Machine Learning & Data Science (Currently Learning & Exploring):** `Python` · Machine Learning Fundamentals · Data Analysis · Data Processing · `NumPy` · `Pandas` · Data Visualization (`Matplotlib`, Jupyter Notebooks)
+- **Artificial Intelligence (Hands-On Integration):** Generative AI · `Gemini API` · LLM Integration · AI-Powered Applications · Intelligent Systems
+- **Machine Learning & Data Science (Currently Learning):** `Python` · Machine Learning Fundamentals · Data Analysis · Data Processing · `NumPy` · `Pandas` · Data Visualization
 
 ### Cloud, Databases & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,aws,dynamodb,sqlite,postgres,git,github,vscode,androidstudio,postman&theme=dark" height="38" alt="Cloud, Databases, and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=firebase,aws,dynamodb,sqlite,git,github,vscode,androidstudio&theme=dark" height="38" alt="Cloud, Databases, and Tools" />
 </p>
 
-- **Databases (Hands-On):** `Firebase` (Authentication, Cloud Firestore, Cloud Messaging) · `SQLite` · `SQL` · `Hive` (Offline-First Local Storage)
-- **Cloud & Backend Infrastructure (Working With & Exploring):** Cloud-Based Backend Systems · `AWS` (Lambda / API Gateway basics) · `DynamoDB` · Cloud Deployment
-- **Development Tools (Hands-On):** `Git` · `GitHub` · `GitHub Desktop` · `VS Code` · `Android Studio` · `Postman`
+- **Databases:** `Firebase` · `SQLite` · `SQL` · `DynamoDB`
+- **Cloud & Backend (Learning & Working With):** `AWS` · `Firebase` · Cloud-Based Backend Systems · Cloud Deployment
+- **Development Tools:** `Git` · `GitHub` · `GitHub Desktop` · `VS Code` · `Android Studio`
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Projects & Practical Experience
 
 ### 1. Soulene — Mental Wellness Platform
-**Focus:** Full-Cycle Application Engineering · Cloud & AI Integration *(S3 Cubes Innovations Pvt. Ltd.)*  
+**Role:** Software Developer *(S3 Cubes Innovations Pvt. Ltd.)*  
 **Technologies:** `Flutter` · `Dart` · `Firebase` · `AWS` · `DynamoDB` · `REST APIs` · `Generative AI`
 
-- Working on a technology-driven mental wellness platform featuring personalized assessments, mood tracking, guided wellness activities, and user-focused applications across the Soulene ecosystem.
-- Integrating RESTful backend services, cloud data workflows, interactive progress charts, and AI-powered conversational experiences.
+- Contributing to a mental wellness platform featuring personalized assessments, mood tracking, guided wellness activities, and AI-powered conversational experiences.
+- Working on application features, REST API integration, and cloud database connectivity across the Soulene app ecosystem.
 
 ---
 
 ### 2. Soulene AI — Wellness Conversational Assistant
-**Focus:** AI-Powered Backend · LLM API Integration · Python REST Service  
-**Technologies:** `Python` · `Gemini API` · `FastAPI` · `REST APIs` · `Pydantic`
+**Technologies:** `Python` · `Gemini API` · `FastAPI` · `REST APIs`
 
-- Built the Python backend service for an AI-powered wellness companion designed to provide supportive conversations, personalized wellness guidance, and interactive exercises.
-- Structured with FastAPI endpoints, Google Gemini API integration, crisis/safety boundary checks, and structured JSON responses that guide in-app navigation.
+- Built an AI-powered wellness conversational assistant backend designed to provide supportive conversations, personalized wellness guidance, and interactive exercises.
+- Used **Python** and **FastAPI** to connect the mobile app with the **Google Gemini API** through clean REST endpoints and safety prompts.
 
 ---
 
-### 3. DocNest (myStuff) — AI Document Scanner & Vault
-**Focus:** Practical AI Integration · Local Security · Utility Application  
-**Technologies:** `Flutter` · `Dart` · `Gemini API` · `PDF Processing` · `AES-256-GCM Encryption`
+### 3. DocNest (myStuff) — Document Scanner App
+**Technologies:** `Flutter` · `Dart` · `Gemini API` · `PDF` · `Local Storage`
 
-- Developed a document scanner and digital vault to scan, store, and search receipts, bills, EMIs, and warranties with perspective clean-up, PDF generation, encrypted local storage, and due-date reminders.
-- Integrated the **Gemini API** to extract printed document details (issuer, date, amount), transcribe text for on-device search, and answer user questions grounded in their stored documents.
+- Built a document scanner and organizer app to scan, save, and search receipts, bills, EMIs, and warranties as PDFs with reminder notifications for due dates.
+- Used the **Gemini API** to help read basic details from scanned documents (such as title, date, and amount) and let users search across their saved files.
 
 ---
 
 ### 4. Multiplayer Game Server
-**Focus:** Real-Time Backend · WebSockets · Server-Side Logic  
-**Technologies:** `Node.js` · `TypeScript` · `WebSockets` · `SQLite`
+**Technologies:** `Node.js` · `WebSockets` · `SQLite`
 
-- Explored real-time multiplayer game architecture focusing on bidirectional WebSocket communication, room and session handling, server-side game loop logic, and state synchronization across connected players.
+- A learning and exploration project focused on real-time multiplayer game architecture using **WebSockets** for two-way communication between players and the server, basic room management, and server-side game logic.
 
 ---
 
-### 5. [Sound-To-Vision](https://github.com/Alefiya-Rajgarh/Sound-To-Vision) — Environmental Sound Alert App
-**Focus:** Assistive Technology · Applied ML Exploration · Cross-Platform App *(Public Repository)*  
-**Technologies:** `Python` · `Flask` · `Flutter` · `Firebase` · `Introductory Audio ML`
+### 5. [Sound-To-Vision](https://github.com/Alefiya-Rajgarh/Sound-To-Vision) — Sound Alert App
+**Technologies:** `Flutter` · `Python` · `Firebase` *(Public Repository)*
 
-- Built an assistive application aimed at helping individuals with hearing impairments stay aware of critical environmental sounds (such as sirens, vehicle horns, and doorbells) through real-time visual and vibration alerts.
-- Combined a Flutter + Firebase mobile interface with Python/Flask audio classification experiments to bridge ML concepts with a practical accessibility use case.
+- Built a project designed for individuals with hearing impairments that listens for common environmental sounds (such as sirens, horns, and doorbells) and shows visual and vibration alerts on the phone.
 
 ---
 
 ### 6. Arrow Land — Puzzle Game
-**Focus:** Interactive Game Logic · Level Tooling  
-**Technologies:** `Flutter` · `Dart` · `Flame` · `Python` · `Firebase` · `AdMob`
+**Technologies:** `Flutter` · `Dart` · `Flame` · `Firebase` · `AdMob`
 
-- Created a grid-based puzzle game using the **Flame** game engine, featuring interactive directional arrow mechanics, progressive level design, audio feedback, and helper Python scripts for level verification and export.
+- Developed a 2D grid puzzle game using the **Flame** game engine, featuring interactive arrow movement mechanics, level progression, game logic, and basic Python helper scripts for preparing levels.
 
 ---
 
 ### 7. [My Expenses](https://github.com/Alefiya-Rajgarh/Expense-Tracker-app) — Expense Tracker App
-**Focus:** Data Visualization · Offline-First Sync *(Public Repository)*  
-**Technologies:** `Flutter` · `Dart` · `Firebase Auth` · `Cloud Firestore` · `Hive` · `fl_chart`
+**Technologies:** `Flutter` · `Dart` · `Firebase` · `Charts` *(Public Repository)*
 
-- Built an expense management app supporting fast transaction logging, offline-first local storage (`Hive`) synced with Cloud Firestore, automated monthly wallet carry-forward, and visual spending analytics via line and category pie charts.
-
----
-
-### 8. [Child-Safe AI Content Filter](https://github.com/Alefiya-Rajgarh/Child-Safe-AI-Content-Filter) — Age-Aware Content Check Service
-**Focus:** Python API Development · Prompt & Schema Validation *(Public Repository)*  
-**Technologies:** `Python` · `FastAPI` · `LLM API` · `Pydantic` · `JavaScript`
-
-- Developed a lightweight FastAPI web service that evaluates text appropriateness for a target age group (`SAFE` / `WARNING` / `BLOCKED`), returns clear explanations, and suggests age-friendly rewrites using structured output validation.
+- Built a daily expense tracker app with Google Sign-In, category-wise income and expense logging, monthly balance tracking, and simple visual charts to help users understand their spending habits.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -172,13 +156,11 @@ Skills are grouped by area to clearly distinguish **hands-on development experie
   <img src="https://streak-stats.demolab.com?user=Alefiya-Rajgarh&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=38BDF8" width="68%" alt="GitHub Contribution Streak" />
 </div>
 
-> *Note: Dynamic cards above reflect public GitHub repositories only; active product work on Soulene, Soulene AI, DocNest, and backend prototypes is hosted primarily in private repositories.*
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
   <p>
-    Open to opportunities and collaborations in <b>Software Development</b>, <b>Python &amp; Backend Engineering</b>, <b>AI-Integrated Applications</b>, and <b>Entry-Level ML / Data-Oriented Roles</b>.
+    Open to <b>Software Developer</b>, <b>Python / Backend</b>, <b>AI-Integrated Application</b>, and <b>Entry-Level ML &amp; Data</b> opportunities.
   </p>
   <p>
     <a href="https://www.linkedin.com/in/alefiya-rajgarh-72b5ab28b/">LinkedIn</a> · <a href="mailto:alefiyarajgarh@gmail.com">alefiyarajgarh@gmail.com</a>
