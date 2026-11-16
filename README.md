@@ -21,9 +21,9 @@
 ## About Me
 
 - **Software Developer**, working on real-world software products and applications.
-- Pursuing an integrated **B.Tech + M.Tech in Artificial Intelligence & Data Science**, with a strong technical foundation across Machine Learning, Agentic AI, and Explainable AI (XAI).
+- Pursuing an integrated **B.Tech + M.Tech in Artificial Intelligence & Data Science**.
 - Interested in building scalable applications, connecting backend systems, and solving practical problems through technology.
-- Exploring **Artificial Intelligence, Generative AI, and Machine Learning**.
+- Exploring deeper in **Artificial Intelligence, Generative AI, and Machine Learning**.
 - Working with **Python, Flutter, APIs, databases, and cloud technologies**.
 - Always learning, experimenting with new technologies, and turning ideas into practical solutions.
 
